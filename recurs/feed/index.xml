@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Recursos &#8211; calaix.app</title>
+	<atom:link href="/recurs/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Repositori de recursos digitals per  a Primària i Infantil</description>
+	<lastBuildDate>Sun, 30 Jun 2019 05:33:55 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/06/iconacalaix.png</url>
+	<title>Recursos &#8211; calaix.app</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Taula de llum</title>
+		<link>/recurs/taula-de-llum/</link>
+				<pubDate>Sat, 29 Jun 2019 14:33:59 +0000</pubDate>
+		<dc:creator><![CDATA[Vicenç Màrquez]]></dc:creator>
+		
+		<guid isPermaLink="false">http://127.0.0.1/wordpress/?post_type=recurs&#038;p=43</guid>
+				<description><![CDATA[Descripció del joc Nivells: P3, P4, P5, Primer, i Segon Àmbits: Àmbit aprendre a aprendre, Àmbit autonomia i iniciativa personal, i Àmbit digital Versió: 1.0 Format: HTML5 Compatibilitat: Navegador web, iOS iPad, Android, Chromebook]]></description>
+								<content:encoded><![CDATA[<div class="wpbf-grid">
+<div class="wpbf-large-2-3">
+<p>Descripció del joc</p>
+
+</div>
+<div class="wpbf-large-1-3">
+</br></br>
+<b>Nivells:</b> P3, P4, P5, Primer, i Segon</br>
+<b>Àmbits:</b> Àmbit aprendre a aprendre, Àmbit autonomia i iniciativa personal, i Àmbit digital</br>
+<b>Versió:</b> 1.0</br>
+<b>Format:</b> HTML5</br>
+<b>Compatibilitat:</b> Navegador web, iOS iPad, Android, Chromebook</br>
+<div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='/recurs/taula-de-llum/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=%2Frecurs%2Ftaula-de-llum%2F")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Taula%20de%20llum&url=%2Frecurs%2Ftaula-de-llum%2F")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Reddit" Title="Reddit" class="heateorSssSharing heateorSssRedditBackground" onclick='heateorSssPopup("http://reddit.com/submit?url=%2Frecurs%2Ftaula-de-llum%2F&title=Taula%20de%20llum")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssRedditSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Linkedin" Title="Linkedin" class="heateorSssSharing heateorSssLinkedinBackground" onclick='heateorSssPopup("http://www.linkedin.com/shareArticle?mini=true&url=%2Frecurs%2Ftaula-de-llum%2F&title=Taula%20de%20llum")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssLinkedinSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Pinterest" Title="Pinterest" class="heateorSssSharing heateorSssPinterestBackground" onclick="javascript:void( (function() {var e=document.createElement('script' );e.setAttribute('type','text/javascript' );e.setAttribute('charset','UTF-8' );e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());"><ss style="display:block;" class="heateorSssSharingSvg heateorSssPinterestSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="MeWe" Title="MeWe" class="heateorSssSharing heateorSssMeWeBackground" onclick='heateorSssPopup("https://mewe.com/share?link=%2Frecurs%2Ftaula-de-llum%2F")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssMeWeSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Mix" Title="Mix" class="heateorSssSharing heateorSssMixBackground" onclick='heateorSssPopup("https://mix.com/mixit?url=%2Frecurs%2Ftaula-de-llum%2F")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssMixSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Taula%20de%20llum %2Frecurs%2Ftaula-de-llum%2F" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" title="More" alt="More" class="heateorSssSharing heateorSssMoreBackground" onclick="heateorSssMoreSharingPopup(this, '/recurs/taula-de-llum/', 'Taula%20de%20llum', '' )" ><ss style="display:block" class="heateorSssSharingSvg heateorSssMoreSvg"></ss></i></li></ul><div class="heateorSssClear"></div></div>
+</div>
+</div>]]></content:encoded>
+										</item>
+		<item>
+		<title>Recurs Prova</title>
+		<link>/recurs/recurs-prova/</link>
+				<pubDate>Sat, 29 Jun 2019 14:17:18 +0000</pubDate>
+		<dc:creator><![CDATA[Vicenç Màrquez]]></dc:creator>
+		
+		<guid isPermaLink="false">http://127.0.0.1/wordpress/?post_type=recurs&#038;p=44</guid>
+				<description><![CDATA[Nivells: Cicle Inicial, P3, P4, i P5 Àmbits: Àmbit d'educació en valors, Àmbit educació física, i Àmbit lingüístic Versió: 1.0 Format: HTML5 Compatibilitat: Navegador web, iOS iPad, Android, Chromebook]]></description>
+								<content:encoded><![CDATA[<div class="wpbf-grid">
+<div class="wpbf-large-2-3">
+<div class="browser-shot alignnone"><img src="https://s0.wordpress.com/mshots/v1/http%3A%2F%2Fgoogle.es?w=600&#038;h=450" alt="http://google.es/" width="600" height="450" class="alignnone" /></div>
+
+</div>
+<div class="wpbf-large-1-3">
+</br></br>
+<b>Nivells:</b> Cicle Inicial, P3, P4, i P5</br>
+<b>Àmbits:</b> Àmbit d'educació en valors, Àmbit educació física, i Àmbit lingüístic</br>
+<b>Versió:</b> 1.0</br>
+<b>Format:</b> HTML5</br>
+<b>Compatibilitat:</b> Navegador web, iOS iPad, Android, Chromebook</br>
+<div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='/recurs/recurs-prova/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=%2Frecurs%2Frecurs-prova%2F")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Recurs%20Prova&url=%2Frecurs%2Frecurs-prova%2F")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Reddit" Title="Reddit" class="heateorSssSharing heateorSssRedditBackground" onclick='heateorSssPopup("http://reddit.com/submit?url=%2Frecurs%2Frecurs-prova%2F&title=Recurs%20Prova")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssRedditSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Linkedin" Title="Linkedin" class="heateorSssSharing heateorSssLinkedinBackground" onclick='heateorSssPopup("http://www.linkedin.com/shareArticle?mini=true&url=%2Frecurs%2Frecurs-prova%2F&title=Recurs%20Prova")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssLinkedinSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Pinterest" Title="Pinterest" class="heateorSssSharing heateorSssPinterestBackground" onclick="javascript:void( (function() {var e=document.createElement('script' );e.setAttribute('type','text/javascript' );e.setAttribute('charset','UTF-8' );e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());"><ss style="display:block;" class="heateorSssSharingSvg heateorSssPinterestSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="MeWe" Title="MeWe" class="heateorSssSharing heateorSssMeWeBackground" onclick='heateorSssPopup("https://mewe.com/share?link=%2Frecurs%2Frecurs-prova%2F")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssMeWeSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Mix" Title="Mix" class="heateorSssSharing heateorSssMixBackground" onclick='heateorSssPopup("https://mix.com/mixit?url=%2Frecurs%2Frecurs-prova%2F")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssMixSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Recurs%20Prova %2Frecurs%2Frecurs-prova%2F" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;" title="More" alt="More" class="heateorSssSharing heateorSssMoreBackground" onclick="heateorSssMoreSharingPopup(this, '/recurs/recurs-prova/', 'Recurs%20Prova', '' )" ><ss style="display:block" class="heateorSssSharingSvg heateorSssMoreSvg"></ss></i></li></ul><div class="heateorSssClear"></div></div>
+</div>
+</div>]]></content:encoded>
+										</item>
+	</channel>
+</rss>
