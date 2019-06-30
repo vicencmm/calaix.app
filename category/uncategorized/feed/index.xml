@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Repositori de recursos digitals per  a Primària i Infantil</description>
-	<lastBuildDate>Sat, 29 Jun 2019 15:05:10 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Jun 2019 16:57:27 +0000</lastBuildDate>
 	<language>ca</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>segona entrada</title>
+		<link>/segona-entrada/</link>
+				<pubDate>Sat, 29 Jun 2019 16:57:25 +0000</pubDate>
+		<dc:creator><![CDATA[Vicenç Màrquez]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=90</guid>
+				<description><![CDATA[fadfadf]]></description>
+								<content:encoded><![CDATA[
+<p>fadfadf</p>
+]]></content:encoded>
+										</item>
+		<item>
 		<title>Hello world!</title>
-		<link>/2019/06/29/hello-world/</link>
-				<comments>/2019/06/29/hello-world/#comments</comments>
+		<link>/hello-world/</link>
+				<comments>/hello-world/#respond</comments>
 				<pubDate>Sat, 29 Jun 2019 11:08:19 +0000</pubDate>
 		<dc:creator><![CDATA[Vicenç Màrquez]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
@@ -40,8 +53,8 @@
 								<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-							<wfw:commentRss>/2019/06/29/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
+							<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
 </rss>
